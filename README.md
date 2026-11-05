@@ -1,0 +1,2 @@
+# OGM_Expansion_pipeline
+OGMのデータから指定座標を含む領域のInsert(Deletion) lengthを抽出し、プロットするスクリプト
